@@ -14,4 +14,4 @@
 |Dimension|	125mm x 55.5mm x 14mm              |
 |Weight   |110g                                |
   
-### Website  -  https://steward-fu.github.io/website/index.htm
+### https://steward-fu.github.io/website/index.htm
